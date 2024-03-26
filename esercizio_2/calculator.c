@@ -1,29 +1,25 @@
 #include <stdio.h>
 
-float addizione(int num1, int num2)
+float addizione(float num1, float num2)
 {
-    float risultato = num1 + num2;
-    return risultato;
+    return num1 + num2;
 }
 
-float sottrazione(int num1, int num2)
+float sottrazione(float num1, float num2)
 {
-    float risultato = num1 - num2;
-    return risultato;
+    return num1 - num2;
 }
 
-float moltiplicazione(int num1, int num2)
+float moltiplicazione(float num1, float num2)
 {
-    float risultato = num1 * num2;
-    return risultato;
+    return num1 * num2;
 }
 
-float divisione(int num1, int num2)
+float divisione(float num1, float num2)
 {
     if (num2 != 0)
     {
-        float risultato = (float)num1 / num2;
-        return risultato;
+        return num1 / num2;
     }
     else
     {
