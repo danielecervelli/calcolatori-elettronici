@@ -1,4 +1,4 @@
 # Esercizi C
-Corsi: **Calcolatori elettronici**.
+Corso: **Calcolatori elettronici**.
 
 Svolti durante l'A.A. 2023/24.
